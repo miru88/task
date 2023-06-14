@@ -1,0 +1,6 @@
+[submodule "taskAPI"]
+	path = taskAPI
+	url = https://github.com/miru88/taskAPI.git
+[submodule "task-front"]
+	path = task-front
+	url = https://github.com/miru88/task-front.git
